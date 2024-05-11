@@ -26,14 +26,11 @@ UnPaint es una aplicación de dibujo similar al clásico Paint de Windows, desar
 3. Compila y ejecuta la aplicación.
 
 ## Capturas de pantalla:
-![Vista del Proyecto exportado a HTML]([/screenshots/screenshot1.png](https://github.com/KarlangaXZ/UnPaint/blob/49ad92d702696aaf0261cedae6be0e8c280213d7/export.png))
-![Vista de la Interface del proyecto]([/screenshots/screenshot2.png](https://github.com/KarlangaXZ/UnPaint/blob/49ad92d702696aaf0261cedae6be0e8c280213d7/proyect.png))
+![Vista del Proyecto exportado a HTML]([/screenshots/screenshot1.png](https://github.com/KarlangaXZ/UnPaint/blob/49ad92d702696aaf0261cedae6be0e8c280213d7/export.png)
+![Vista de la Interface del proyecto]([/screenshots/screenshot2.png](https://github.com/KarlangaXZ/UnPaint/blob/49ad92d702696aaf0261cedae6be0e8c280213d7/proyect.png)
 
 ## Contribuir:
 ¡Siéntete libre de contribuir al proyecto! Puedes enviar sugerencias, informar errores o enviar solicitudes de características.
-
-## Licencia:
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
 
 ## Autor:
 Desarrollado por Carlos Linares (KarlangaXZ [https://github.com/KarlangaXZ]).
